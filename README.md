@@ -6,7 +6,6 @@
 ##### Highly motivated young web developer! Able to self-organize during independent projects, as well as collaborate in a team setting.
 
 # About Me
-💻 student at HackYourFuture
 
 📮 Gent
 
@@ -19,6 +18,9 @@
 [LinkedIn](https://www.linkedin.com/in/anisya-weeteling-1b87151b4/)
 
 🗣️ Indonesian, English, Dutch
+
+Education : Bachelor In Nursing ( Specialization: Surgical Nurse) Padjadjaran University 2007-2012
+💻 Student at HackYourFuture 2020-Now
 
 ## Technologies & Tools
 |HTML5 |CSS3  | Sass|JavaScript|
